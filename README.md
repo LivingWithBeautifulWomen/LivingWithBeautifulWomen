@@ -1,70 +1,31 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVhbSUyMG9mJTIwcGVvcGxlfGVufDB8fHx8MTY2MDMxNzQzNg&ixlib=rb-1.2.1&q=80
+coverY: 0
+---
 
-<h1 align=center>  Clay - A Gatsby Theme | <a href="https://clay-theme.netlify.app" rel="nofollow">Demo</a></h1>
+# 👋 Welcome!
 
+{% hint style="info" %}
+**About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
+{% endhint %}
 
-![clay-gatsby-theme](https://github.com/lilxyzz/gatsby-clay/blob/master/src/img/Clay-Gatsby-theme.png)
-<br></br>
+For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/84e7f42b-65db-4363-a581-2267c2654efb/deploy-status)](https://app.netlify.com/sites/clay-theme/deploys)
+For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/lilxyzz/clay-theme)
+<details>
 
-An image-centric Gatsby theme for publishers, portfolio, photographers blogs and more.
+<summary>How to use it?</summary>
 
-Visually engaging Gatsby theme tailored for publishers, portfolios and more, meticulously crafted to showcase your graphics seamlessly. It's completely free and fully responsive, ensuring a stunning display across all devices.
+This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to.
 
-**If you found the repository valuable or enjoyed using it, consider showing your support by giving it a 5-star rating 🍻**
+</details>
 
+<details>
 
-## ⭐ Feature highlights
+<summary>Contributing</summary>
 
-- Gatsby v5+
-- PWA
-- Netlify/Decap CMS pre-configured
-- PurgeCSS for bundle size optimization
-- Netlify settings predefine
-- Netlify contact form Support
-- SEO optimized
-- 90+ Lighthouse
+If you want to contribute changes, start a new change request and submit it for review. The People team will review it soon after.
 
-### Coming soon  
-
-- Light & Dark mode
-
-## 🚀 Local development
-
-1. **clone the repository**
-
-```
-git clone https://github.com/lilxyzz/clay-theme.git
-```
-
-2. **cd into the project directory**
-
-```
-cd clay-theme
-```
-
-3. **install all dependencies for the project**
-
-```
-yarn
-```
-
-4. **start local dev server**
-
-```
-gatsby develop 
-```
-
-**Open the source code and start editing!**
-
-Your site is now running at `http://localhost:8000`
-
-_Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
-
-## 🐛 Issues / 💡 Feedback / 👑 Contributing
-
-We welcome contributions and feedback. If you have ideas for improvements or spot a bug, feel free to contribute.
-
-**Inspired by <a target="_blank" href="https://github.com/ImedAdel/gatsby-london" rel="nofollow">Gatsby London</a>**
+</details>
